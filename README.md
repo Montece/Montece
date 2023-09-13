@@ -3,5 +3,5 @@
 - 🕹️ Game Mechanics Programmer
 - ⚙️ C#/C++ Development
 - 🛠️ Unity GameEngine
-- 👨‍🎓 Bachelor of "MPEI"
+- 👨‍🎓 Bachelor of MPEI
 - 🧠 Many years of programming experience
