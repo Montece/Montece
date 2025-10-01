@@ -6,4 +6,5 @@
 - 👨‍🎓 Bachelor of MPEI
 - 🧠 Many years of programming experience
 
-https://deadlockempire.github.io/
+### 🧑‍🎓 Recommended
+- 🧵 https://deadlockempire.github.io/
